@@ -1,0 +1,2 @@
+POST _bulk
+{ "index":{"_index":"test-logs", "_id":"1"} }
